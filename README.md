@@ -48,3 +48,4 @@ This mod adds more content to Arcade Future Tone such as songs, modules, new fea
   - starsscatter
   - flopityflips
 - All of the creators of the covers (proper credits is shown in-game at each song start screen that has covers)
+- All of the creators of the PPD charts (proper credits is shown in-game at each song start screen for the new songs)
