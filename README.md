@@ -20,11 +20,14 @@ This mod adds more content to Arcade Future Tone such as songs, modules, new fea
   - STAGE = Click on the song text to choose the stage
 - Mix Edition plugin, which includes
   - Language option. Change the game to either load in Japanese, English, or English with Romaji lyrics
+  - Choose which difficulty to boot the game on
+  - Bgm select for the main menu and results screen
   - Mix Edition FREE PLAY (changes the top right text to (^w^=^=^)
   - Change the game name to Hatsune Miku: Project DIVA Arcade Mix Edition
   - Cover preview (allows covers to be previewed on the song select when clicking on the song text)
   - Cover text color (changes the clicked song text from yellow to light blue instead)
   - Disable extended data/osage_play_data (disables the extended data installation. This is mostly if you don't want to wait about 2 hours for the install, and it's also a 13GB increase. It'll break physics on edit mode PVs however)
+  - Switch between the original font and FT's font
  
 # Credits
 - Skyth for MikuMikuModel, for allowing me to use the F head models, and for the custom F shader
