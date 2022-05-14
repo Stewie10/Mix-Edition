@@ -1,5 +1,5 @@
 # Mix-Edition
-This mod adds more content to Arcade Future Tone such as songs, modules, new features, etc. It is only available for the Arcade version, as FT and Megamix only support up to 300 songs due to having savedata that doesn't change file sizes.
+This mod adds more content to Arcade Future Tone such as songs, modules, new features, etc. It is only available for the Arcade version, as FT and Megamix only support up to 300 songs due to having fixed savedatas.
 
 # Installing
   - Download the gdrive files, all 001-012 files (winrar or 7z is required. Either one will work).
