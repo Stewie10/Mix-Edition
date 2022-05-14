@@ -1,0 +1,7 @@
+exposure 2.00000
+gamma 1.00000
+saturate_power 1
+flare 1.00000 1.00000 0.500000
+sigma 2.50000 2.50000 2.50000
+intensity 1.50000 1.50000 1.50000
+EOF

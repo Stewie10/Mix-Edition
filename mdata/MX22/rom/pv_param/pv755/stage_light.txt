@@ -1,0 +1,3 @@
+Type,AmbientR,AmbientG,AmbientB,DiffuseR,DiffuseG,DiffuseB,SpecularR,SpecularG,SpecularB,SpecularA,PosX,PosY,PosZ,ToneCurveBegin,ToneCurveEnd,ToneCurveBlendRate,ID
+PARALLEL,0.59,0.55,0.4,0.52,0.66,0.6,0.95,1,0.95,1,0,0.5,2,0,0,0,0
+PARALLEL,0.59,0.55,0.4,0.52,0.66,0.6,0.95,1,0.95,1,0,0.5,2,0,0,0,1

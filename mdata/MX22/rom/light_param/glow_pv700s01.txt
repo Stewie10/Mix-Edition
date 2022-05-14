@@ -1,0 +1,12 @@
+exposure 2.00000
+gamma 1.00000
+saturate_power 1
+saturate_coef 1.00000
+flare 1.00000 1.00000 0.500000
+sigma 2.30000 2.30000 2.30000
+intensity 2.00000 2.00000 2.00000
+auto_exposure 0
+tone_map_method 0
+fade_color 0.000000 0.000000 0.000000 0.000000 0
+tone_transform 0.000000 0.000000 0.000000 1.00000 1.00000 1.00000 
+EOF

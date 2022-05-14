@@ -1,0 +1,19 @@
+group_start 0
+type 1
+density 0.400000
+linear 5.00000 120.000
+color 3.50000 3.50000 3.50000 1.00000
+group_end 0
+group_start 1
+type 1
+density 0.000000
+linear 0.600000 3.00000
+color 2.00000 2.00000 2.00000 1.00000
+group_end 1
+group_start 2
+type 0
+density 0.000000
+linear 20.0000 1000.00
+color 1.00000 1.00000 1.00000 0.000000
+group_end 2
+EOF

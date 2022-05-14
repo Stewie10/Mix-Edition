@@ -1,0 +1,7 @@
+milky_way_texture_name F_DIVA_STGPV830_MS_SKY
+utc 2013 9 6 8 42 0.000000
+rotation_y_deg 220.000000
+observer_north_latitude_deg 28.0000
+observer_east_longitude_deg 107.000
+modifiers 0 1.560000 2.42000 1.00000 0.000000 256.0000
+modifiers 1 1.990000 7.00000 1.440000 2.57000 256.0000
