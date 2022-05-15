@@ -5,6 +5,7 @@ This mod adds more content to Arcade Future Tone such as songs, modules, new fea
   - Download the gdrive files, all 001-012 files (winrar or 7z is required. Either one will work).
   - Make sure the 001-012 files are all in the same folder. Doesn't matter which folder.
   - Extract the contents of 001 only to your diva's game folder.
+  - For updates, download the Source Code zip
 
 # Installation Files
 [Download](https://drive.google.com/drive/u/5/folders/14l2dDLsCX72mYiSK4rbBwR7rZn6RvZcK?usp=sharing)
