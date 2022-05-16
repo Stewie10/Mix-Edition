@@ -29,6 +29,7 @@ This mod adds more content to Arcade Future Tone such as songs, modules, new fea
   - Cover text color (changes the clicked song text from yellow to light blue instead)
   - Disable extended data/osage_play_data (disables the extended data installation. This is mostly if you don't want to wait about 2 hours for the install, and it's also a 13GB increase. It'll break physics on edit mode PVs however)
   - Switch between the original font and FT's font
+  - A mod folder using MX99. This folder you can edit db files using mod_ (ex: mod_pv_db.txt) instead of mdata_ (ex: mdata_obj_db.bin), which also has higher priority than mdata
  
 # Credits
 - Skyth for MikuMikuModel, for allowing me to use the F head models, and for the custom F shader
